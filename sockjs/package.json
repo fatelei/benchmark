@@ -1,0 +1,10 @@
+{
+  "name": "sockjs-benchmark",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=4.2.1"
+  },
+  "dependencies": {
+    "sockjs-client-node": "git+ssh://git@github.com:fatelei/sockjs-client-node.git"
+  }
+}
